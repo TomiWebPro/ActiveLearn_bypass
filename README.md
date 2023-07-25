@@ -9,3 +9,6 @@ Basic download under normal formats, such as https://resources.pearsonactivelear
 v2.0
 Increased processing speed by up to 95%, because of the update in multithread processes for download.
 Increased support for other formats of the activelearn website, such as https://resources.pearsonactivelearn.com/r00/r0068/r006886/r00688629/current/OPS/images/F01_EDIB_SB_IGCSE_85084_PRE_i-ix-combined-001.jpg
+
+v3.0
+Basic update, removal of temporary image function added. 
